@@ -1,6 +1,6 @@
 # HW2 Project
 ## Population of US vs China
-![Senators](senators.png)
+![population](Figure_1.png)
 <addr> This graph illustrates the partisan breakdown of our Senate. Currently, the majority of our Senators are Republican and only two members of the Senate are Independent. If we analyze the data by gender, we find that there is a siginificant difference between how many female and male Senators are in each party. The Democratic party has the highest female representation in the Senate and the Indepedent party has the least.
 
 ### Interested in this Data?
