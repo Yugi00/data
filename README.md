@@ -1,6 +1,7 @@
 # HW2 Project
 ## Population of US vs China
 ![population](Figure_1.png)
+
 <addr>
 This graph shows how China's population has continued to have a larger population than that of the United States. Also, the graph shows how China's population is growing faster than that of the United States' as well.
 
